@@ -1,0 +1,18 @@
+
+/env/env.js
+/dist/
+/web-compiled/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Other
+.DS_Store
+.idea/
+package-lock.json
+
+# Vim
+*.swp
+*.swo
